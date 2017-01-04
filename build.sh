@@ -1,0 +1,1 @@
+browserify dist/index.js > dist/browser/swing.js
